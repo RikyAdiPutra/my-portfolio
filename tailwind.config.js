@@ -17,7 +17,8 @@ module.exports = {
         source: ["var(--font-source_sans_3)"]
       },
       colors: {
-        "main-c": "#A4A4A4"
+        "main-c": "#A4A4A4",
+        "button-c": "#7843E9"
       }
     },
   },
